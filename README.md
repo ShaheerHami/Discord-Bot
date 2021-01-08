@@ -1,0 +1,1 @@
+Programmed my own Discord meme and text bot in Python that replies to some messages and displays funny memes when asked. If user replies with "Hello" or "Bye" it will respond accordingly. If user wants to ask a joke it will choose a random joke from a list and respond. If user says "meme" it will show a funny meme from Google.
